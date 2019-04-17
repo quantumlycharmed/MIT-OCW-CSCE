@@ -72,4 +72,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 ## Electives
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
 [Ethical Hacking from Scratch] (https://www.udemy.com/learn-ethical-hacking-from-scratch/) | Udemy | 2 weeks | 3 hours/week | Self-paced
