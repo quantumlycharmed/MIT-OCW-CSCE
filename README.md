@@ -24,12 +24,13 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Elements of Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2008/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
-[	Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
+[Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
 
 ##  Elective Subjects
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-
+[Elements of Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2008/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
+[Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
 
 
 
