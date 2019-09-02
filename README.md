@@ -1,75 +1,37 @@
-# The Open Source Computer Science Degree
+# The Open Source MIT Computer Engineering Degree
 
-## Computer Science Basics
-
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | 12 week | 5 hours/week | self-paced | none
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
-
-## Programming
+## Departmental Requirements
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
-[Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
-[Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
-[Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
-[Java Programming: Principles of Software Design](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) | Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Arrays, Lists, and Structured Data
-[Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke | 4 weeks | 3-6 hours/week | once a month | Java Programming: Principles of Software Design
-[Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
-[Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
-[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
+[Intro to Computer Science Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | 12 weeks | 5 hours/week | self-paced | none
+[Calculus 1 with Applications](https://ocw.mit.edu/courses/mathematics/18-013a-calculus-with-applications-spring-2005/) | MIT | 12 weeks | 2-5 hours/week | once a month | none
+[Calculus of Several Variables](https://ocw.mit.edu/courses/mathematics/18-022-calculus-of-several-variables-fall-2010/) | MIT | 12 weeks | 2-5 hours/week | once a month | none
+[Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | MIT | 12 weeks | 2-5 hours/week | once a month | none
+[Introduction to EECS via Robotics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) | MIT | 12 weeks | 2-5 hours/week | once a month | none
+[Physics I](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/) | MIT | 12 weeks | 2-5 hours/week | once a month | none
+[Physics II](https://ocw.mit.edu/courses/physics/8-022-physics-ii-electricity-and-magnetism-fall-2006/) | MIT | 12 weeks | 2-5 hours/week | once a month | none
 
-## Math
+## Level 1 EECS Requirements
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | pre-calculus
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | pre-calculus
-[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
-[Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Stanford | 8 weeks | 5-7 hours/week | self-paced | none
+[Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
+[Signals and Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
+[Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
 
-
-## Systems
-
+## Level 2 EECS Requirements
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
+[Elements of Software Construction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2008/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
+[	Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) | MIT | 12 weeks | 2-5 hours/week | once a month | above
 
-
-## Theory
-
+##  Elective Subjects
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
-[Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
-[Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
 
-## Applications
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | self-paced | Java Programming: Build a Recommendation System
-[Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
-[Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
-[Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
-## Unix
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none
-[The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
 
-## Electives
-
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Ethical Hacking from Scratch](https://www.udemy.com/learn-ethical-hacking-from-scratch/) | Udemy | 2 weeks | 3 hours/week | Self-paced | All Above
-[Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) | Udacity | 4 Months | 10 Hours/week | Self-paced
